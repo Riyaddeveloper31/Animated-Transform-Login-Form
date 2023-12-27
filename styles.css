@@ -19,7 +19,7 @@
     position: relative;
     width: 400px;
     height: 450px;
-    background: transparent;
+    background:#2e64b3;
     border: 2px solid rgba(red, green, blue, alpha);
     display: flex;
     border-radius: 20px;
